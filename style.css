@@ -1,0 +1,16 @@
+.navbar {
+  height: 6rem;
+}
+
+.site-logo {
+  padding-right: 1rem;
+}
+
+.navbar-brand {
+  font-family: "Roboto Slab", serif;
+  font-size: 2rem;
+}
+
+.navbar ul {
+  font-size: 1.3rem;
+}
